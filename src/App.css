@@ -51,6 +51,14 @@ li a:hover {
   background-color: #111111;
 }
 
+h2{
+  margin: 0;
+}
+
+h3{
+  margin: 0;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
