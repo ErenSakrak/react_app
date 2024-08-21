@@ -1,0 +1,7 @@
+{
+  "dersler": [
+    { "id": 1, "adi": "React", "hoca": "MD" },
+    { "id": 2, "adi": "React Native", "hoca": "MD1" },
+    { "id": 3, "adi": "Angular", "hoca": "MD2" }
+  ]
+}
